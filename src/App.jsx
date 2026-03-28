@@ -248,7 +248,6 @@ function Memory() {
     </div>
   );
 }
-
 // ═══════════════════════════════════════════════════════════════════════════
 // 4. WHACK-A-MOLE
 // ═══════════════════════════════════════════════════════════════════════════
@@ -510,7 +509,7 @@ export default function App() {
 
           {/* Footer */}
           <div className="text-center mt-10 text-slate-700 text-xs tracking-widest">
-            ◆ INSERT COIN TO CONTINUE ◆
+    
           </div>
         </div>
       )}
